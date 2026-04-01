@@ -1,1 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Petite Beau Creations™</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+
+<body>
+<header>
+  <h1>Petite Beau Creations™</h1>
+  <p>Luxury Minimalist Branding • Sensual Aesthetic Storytelling</p>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="services.html">Vraag & Aanbod</a>
+</nav>
+
+<section>
+  <h2>Welkom</h2>
+  <p>
+    Petite Beau Creations™ is een digitaal creatief atelier dat luxe minimalisme,
+    zachte sensualiteit en cinematografische esthetiek samenbrengt in unieke digitale ervaringen.
+  </p>
+
+  <p>
+    Mijn werk richt zich op visuele identiteit, creatieve regie en volwassen‑thema storytelling —
+    altijd elegant, altijd met respect voor grenzen, altijd met een verfijnde vrouwelijke energie.
+  </p>
+</section>
+
+<footer>
+  © Petite Beau Creations™ — All Rights Reserved
+</footer>
+</body>
+</html>
 

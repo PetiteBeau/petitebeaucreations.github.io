@@ -1,1 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', sans-serif;
+  background: #faf7f8;
+  color: #2a2a2a;
+}
+
+header {
+  padding: 40px;
+  text-align: center;
+}
+
+h1, h2 {
+  font-weight: 300;
+  letter-spacing: 1px;
+}
+
+nav {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #2a2a2a;
+  font-weight: 300;
+}
+
+section {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  line-height: 1.7;
+}
+
+footer {
+  text-align: center;
+  padding: 40px;
+  font-size: 14px;
+  opacity: 0.6;
+}
 
